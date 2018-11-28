@@ -1,2 +1,2 @@
 # T_Tests3
-IOS
+IOS Unit Tests in two classes: Weather (String) and Calculator (Int)
